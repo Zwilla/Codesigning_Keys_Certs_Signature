@@ -1,3 +1,5 @@
 # TOC
 
+codesign -dv --verbose=4 giftedmotion-1.23_signed.jar
+
 
